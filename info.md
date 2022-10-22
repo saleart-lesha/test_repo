@@ -3,3 +3,7 @@
 > git status – получить информацию от git о его текущем состоянии
 
 > git add – добавить файл или файлы к следующему коммиту
+
+>**git commit -m "message"** - create a commit.
+
+>**git log** - display the history of all commits with their hash-codes

@@ -6,3 +6,5 @@
 
 > git commit - создание сохранений
 
+
+> git log - log
